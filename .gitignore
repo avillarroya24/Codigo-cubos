@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+.vs
+x86
+x64
+Debug
+Release
+libraries
